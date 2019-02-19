@@ -1,0 +1,26 @@
+body{background-color:#232426;}
+.logo{margin-top:18px;}
+.logo a{
+	color:#444444;
+	display: inline-block;
+	font-size: 30px;
+	font-weight: 700;px;
+	text-transform: uppercase; 
+}
+.main-menu ul li{
+	display: inline-block;
+}
+.main-menu ul li a{
+	color: #444444;
+	display: block;
+	font-weight: 700;
+	padding: 30px 20px;
+	text-transform: uppercase;
+}.text{display: table;height: 100%;text-align: center;width: 100%;color: #696969;margin-top:67px;}.footer {
+  background: #42A5F5;
+  color: white;
+  padding: 20px;
+}.footer {
+margin-top: 209px;
+text-align: center;
+}
